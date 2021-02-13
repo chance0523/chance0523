@@ -1,8 +1,9 @@
 # Intro
 ```js
 {
-	id: "chance",
+	name: "서정준",
 	aka: [
+	        "chance",
 		"찬스"
 	]
 }
