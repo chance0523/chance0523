@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamuel950523%2F2Fsamuel950523.github.io&count_bg=%23000000&title_bg=%23F76712&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 # Intro
 ```js
 {
@@ -34,7 +36,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamuel950523%2F2Fsamuel950523.github.io&count_bg=%23000000&title_bg=%23F76712&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+- 🔭 I’m currently working on `NHN godo:`
+- 🌱 I’m currently learning `Spring Framework`
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel950523)](https://github.com/2Fsamuel950523/github-readme-stats)
 
