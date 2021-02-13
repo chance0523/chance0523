@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel950523)](https://github.com/2Fsamuel950523/github-readme-stats)
 -->
 
-### - 🔭 I’m currently working on `NHN godo:`
-### - 🌱 I’m currently learning `Spring Framework`
+#### - 🔭 I’m currently working on `NHN godo:`
+#### - 🌱 I’m currently learning `Spring Framework`
 
 
 
