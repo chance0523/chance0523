@@ -1,4 +1,22 @@
+# Intro
+```js
+{
+	id: "chance",
+	aka: [
+		"찬스"
+	]
+}
+```
 
+## 관심 분야
+### 웹
+* FE : 못해요...
+* BE : 못해요... Spring 왕초보
+
+### Problem Solving
+* 알고리즘 문제풀이를 좋아합니다! 취업하고는 잘 못하고 있습니다.
+#### Solved.ac 프로필
+[![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=samuel95)](https://solved.ac/profile/samuel95)
 
 <!--
 **samuel950523/samuel950523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
