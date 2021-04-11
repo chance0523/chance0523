@@ -11,6 +11,8 @@
 }
 ```
 
+#### My Blog : https://samuel950523.github.io/
+
 ## 관심 분야
 ### 웹
 * FE : 못해요...
