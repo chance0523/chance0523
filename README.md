@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamuel950523%2F2Fsamuel950523.github.io&count_bg=%23000000&title_bg=%23F76712&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchance0523%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # Intro
 ```js
@@ -11,7 +11,7 @@
 }
 ```
 
-#### My Blog : https://samuel950523.github.io/
+#### My Blog : https://chance0523.github.io/
 
 ## 관심 분야
 ### 웹
@@ -24,7 +24,7 @@
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=samuel95)](https://solved.ac/profile/samuel95)
 
 <!--
-**samuel950523/samuel950523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chance0523/chance0523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel950523)](https://github.com/2Fsamuel950523/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chance0523)](https://github.com/2Fchance0523/github-readme-stats)
 -->
 
 #### - 🔭 I’m currently working on `NHN godo:`
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samuel950523&count_private=true&show_icons=true&theme=dracula)](https://github.com/2Fsamuel950523/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chance0523&count_private=true&show_icons=true&theme=dracula)](https://github.com/chance0523/github-readme-stats)
