@@ -1,26 +1,48 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchance0523%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Intro
+### 🧑‍💻 JeongJoon Seo / Chance
 ```js
 {
-	name: "서정준",
-	aka: [
-	        "chance",
-		"찬스"
-	]
+    "name": [
+        "Jeong Joon Seo",
+        "서정준"
+    ],
+    "nickName": [
+        "chance",
+        "찬스"
+    ]
 }
 ```
 
-#### My Blog : https://chance0523.github.io/
+##### My Blog: https://chance0523.github.io/
 
-## 관심 분야
-### 웹
-* FE : 못해요...
-* BE : 못해요... Spring 왕초보
+---
 
-### Problem Solving
-* 알고리즘 문제풀이를 좋아합니다! 취업하고는 잘 못하고 있습니다.
-#### Solved.ac 프로필
+**Problem Solving**과 **Clean Code**에 관심 있는 개발자입니다. 
+
+한 사람이 작성한 것 같은, **읽기 좋은 코드**를 지향합니다. **코드리뷰**를 통해 높은 품질의 코드를 만들기 위해 노력하고 있습니다.
+
+B2C 기업의 **서버 개발자**로 일하고 있고, 앞으로도 그렇게 일 하고 싶습니다.
+
+--
+
+I'm a developer interested in **Problem Solving** and **Clean Code**.
+
+I'm going after **Readable Code**, looks like written by one person. Also trying to make high-quality code by **Code Reviews**.
+
+I'm working as a **Server Developer** for a B2C company, and I would like to do that in the future.
+
+
+
+## Tech Stack
+
+<img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white"/><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><img alt="Redis" src ="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img alt="Git" src ="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><img alt="Kafka" src ="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+#### Solved.ac Profile
 [![solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=samuel95)](https://solved.ac/profile/samuel95)
 
 <!--
