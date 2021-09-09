@@ -32,6 +32,8 @@ I'm a developer interested in **Problem Solving** and **Clean Code**.
 
 I'm going after **Readable Code**, looks like written by one person. Also trying to make high-quality code by **Code Reviews**.
 
+Through development, I want to create a world where the story of 'relieving the inconvenience of daily life' and 'how would I have lived without OO' is told.
+
 I'm working as a **Server Developer** for a B2C company, and I would like to do that in the future.
 
 
