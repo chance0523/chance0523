@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 #### - 🔭 I’m currently working on `NHN COMMERCE`
 #### - 🌱 I’m currently learning `Spring Framework`
-
+#### - 😄 I’m currently running `Techo Talk Study`
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chance0523&count_private=true&show_icons=true&theme=dracula)](https://github.com/chance0523/github-readme-stats)
