@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chance0523)](https://github.com/2Fchance0523/github-readme-stats)
 -->
 
-#### - 🔭 I’m currently working on `NHN COMMERCE`
+#### - 🔭 I’m currently working on `NC SOFT`
 #### - 🌱 I’m currently learning `Spring Framework`
 #### - 😄 I’m currently running `Techo Talk Study`
 
