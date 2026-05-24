@@ -13,6 +13,7 @@
     ]
 }
 ```
+
 ##### My Blog: https://chance0523.github.io/
 ---
 **Problem Solving**과 **Clean Code**에 관심 있는 개발자입니다. 
@@ -35,5 +36,3 @@ I'm working as a **Server Developer** for a B2C company, and I would like to do 
 
 #### - 🔭 I'm currently working on `Hyundai Card`
 #### - 🌱 I'm currently learning `Spring Framework`
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chance0523&count_private=true&show_icons=true&theme=dracula&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
