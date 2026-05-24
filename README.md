@@ -16,10 +16,12 @@
 
 ##### My Blog: https://chance0523.github.io/
 ---
+
 **Problem Solving**과 **Clean Code**에 관심 있는 개발자입니다. 
 한 사람이 작성한 것 같은, **읽기 좋은 코드**를 지향합니다. **코드리뷰**를 통해 높은 품질의 코드를 만들기 위해 노력하고 있습니다.
 개발을 통해 '일상생활의 불편함을 해소'하고 'OO없이 어떻게 살았을까'라는 이야기가 나오는 세상을 만들어가고 싶습니다.
 B2C 기업의 **서버 개발자**로 일하고 있고, 앞으로도 그렇게 일 하고 싶습니다.
+
 --
 I'm a developer interested in **Problem Solving** and **Clean Code**.
 I'm going after **Readable Code**, looks like written by one person. Also trying to make high-quality code by **Code Reviews**.
